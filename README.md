@@ -72,7 +72,7 @@ I’m a Computer Science graduate and builder from India who loves turning ideas
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram-82\&show_icons=true)
 
 ---
 
