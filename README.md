@@ -87,9 +87,9 @@ I’m a Computer Science graduate and builder from India who loves turning ideas
 
 ### 🤝 Connect With Me
 
-* GitHub: [https://github.com/yourusername](https://github.com/Ram-82)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/ramachandragowda-s-p-avgx)
-* Email: [youremail@example.com](mailto:ramachandragowdasp19@gmail.com)
+* GitHub: [https://github.com/Ram-82](https://github.com/Ram-82)
+* LinkedIn: [https://linkedin.com/in/ramachandragowda-s-p-avgx](https://linkedin.com/in/ramachandragowda-s-p-avgx)
+* Email: [ramachandragowdasp19@gmail.com](mailto:ramachandragowdasp19@gmail.com)
 
 ---
 
